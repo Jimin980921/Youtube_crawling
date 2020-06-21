@@ -11,9 +11,11 @@
 
 * 데이터 처리: 약 50명의 유튜버의 먹방 제목 불용어 제거, 동의어 처리 후 빈도수 추출
 
+<img src="https://user-images.githubusercontent.com/57060127/85222662-fd870600-b3f7-11ea-91e6-06901055d920.JPG" width="300" height="300">
+
 
 
 * 데이터 후처리: 각 유튜버 먹방 제목의 빈도수 추출한 txt를 합쳐서 FrequencyRdd를 만든다. 그 후 음식이름을 기준으로 빈도수를 더해 겹치는 단어의 빈도수를 합한다. 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/76674502-891c1a00-65f3-11ea-9062-1f7cc7cc43d2.PNG" width="400" height="350">
+<img src="https://user-images.githubusercontent.com/57060127/76674502-891c1a00-65f3-11ea-9062-1f7cc7cc43d2.PNG" width="300" height="300">
 </p>
