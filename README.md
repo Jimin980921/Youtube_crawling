@@ -31,5 +31,5 @@
 
 p.s) 개인공부를 통해 크롤링을 처음 이용한 프로젝트이기때문에 자동화로 구현하지못한 아쉬운점이 있음.  
 이후 더 공부하여 다양한 크롤링 프로젝트를 진행함.  
-[네이버 쇼핑 리뷰 크롤링](https://github.com/Jimin980921/text_mining)
+[네이버 쇼핑 리뷰 크롤링](https://github.com/Jimin980921/text_mining)  
 [네이버 지도 크롤링](https://github.com/Jimin980921/Dongjak_bigdata_project)
