@@ -16,10 +16,9 @@
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/85222664-ff50c980-b3f7-11ea-8009-f54fac3f79eb.JPG" width=80%>
 </p>
-<br>
 </p>
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=30%>
+<img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=35%>
 </p>
 <br>
 
