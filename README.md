@@ -27,7 +27,7 @@
 
 * __결과__: 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/76674502-891c1a00-65f3-11ea-9062-1f7cc7cc43d2.PNG" width=150 height=200>
+<img src="https://user-images.githubusercontent.com/57060127/76674502-891c1a00-65f3-11ea-9062-1f7cc7cc43d2.PNG" width=300 height=200>
 </p>
 <br>
 <br>
