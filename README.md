@@ -18,7 +18,7 @@
 </p>
 </p>
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=30%>
+<img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=200 height=300>
 </p>
 <br>
 
@@ -27,7 +27,7 @@
 
 * __결과__: 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/76674502-891c1a00-65f3-11ea-9062-1f7cc7cc43d2.PNG" width=550 height=200>
+<img src="https://user-images.githubusercontent.com/57060127/76674502-891c1a00-65f3-11ea-9062-1f7cc7cc43d2.PNG" width=40%>
 </p>
 <br>
 <br>
