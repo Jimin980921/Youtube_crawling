@@ -3,6 +3,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------
+__세부 내용__
 * BeautifulSoup, selenium, chromeWebDriver, Jupyter Notebook 사용
 
 * hadoop, spark, python3 사용
