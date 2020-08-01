@@ -13,14 +13,14 @@ __세부 내용__
 
 * __데이터 처리__: 약 50명의 유튜버의 먹방 제목 불용어 제거, 동의어 처리 후 빈도수 추출
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/85222662-fd870600-b3f7-11ea-91e6-06901055d920.JPG" width=80%>
+<img src="https://user-images.githubusercontent.com/57060127/85222662-fd870600-b3f7-11ea-91e6-06901055d920.JPG" width=60%>
 </p>
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/85222664-ff50c980-b3f7-11ea-8009-f54fac3f79eb.JPG" width=80%>
+<img src="https://user-images.githubusercontent.com/57060127/85222664-ff50c980-b3f7-11ea-8009-f54fac3f79eb.JPG" width=60%>
 </p>
 </p>
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=250 height=300>
+<img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=35%>
 </p>
 <br>
 
