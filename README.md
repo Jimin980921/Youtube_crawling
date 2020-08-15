@@ -16,7 +16,8 @@
 <img src="https://user-images.githubusercontent.com/57060127/90315013-ed505a80-df52-11ea-8f89-30286916d3d9.JPG" width=50%>
 </p>  
 __<크롤링 데이터>__    
-<p align="center"> 
+
+<p align="center">   
 <img src="https://user-images.githubusercontent.com/57060127/85222662-fd870600-b3f7-11ea-91e6-06901055d920.JPG" width=70%>
 </p>
 <p align="center"> 
