@@ -33,7 +33,7 @@ __3단계__: 데이터 정리
 FrequencyRdd에서 음식이름을 기준으로 빈도수를 더해 겹치는 단어의 빈도수를 합침  
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=25%>
+<img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=30%>
 </p>
 <br>
 
