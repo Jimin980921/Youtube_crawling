@@ -27,16 +27,20 @@ __2단계__: 데이터 전처리
 <img src="https://user-images.githubusercontent.com/57060127/85222664-ff50c980-b3f7-11ea-8009-f54fac3f79eb.JPG" width=70%>
 </p>
 </p>
+
+__3단계__: 각 유튜버별 음식 빈도수 추출  
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/86514946-8ec29780-be50-11ea-96e6-0632afa6aa84.png" width=25%>
 </p>
 <br>
 
-* __데이터 후처리__: 각 유튜버 먹방 제목의 빈도수 추출한 txt를 합쳐서 FrequencyRdd 생성  
+__4단계__: 데이터 병합   
+각 유튜버 먹방 제목의 빈도수 추출한 txt를 합쳐서 FrequencyRdd 생성    
 FrequencyRdd에서 음식이름을 기준으로 빈도수를 더해 겹치는 단어의 빈도수를 합침  
+
 -------------------------------------------------------------------------------------
 
-## 결과 
+## 분석 결과 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/76674502-891c1a00-65f3-11ea-9062-1f7cc7cc43d2.PNG" width=40%>
 </p>
