@@ -16,7 +16,9 @@ __1단계__: 데이터 수집
 구독자 20만이상 유튜버 50명의 먹방동영상 정보 크롤링  
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/90315013-ed505a80-df52-11ea-8f89-30286916d3d9.JPG" width=45%>
-</p>     
+</p>  
+<br>
+
 
 __2단계__: 데이터 전처리  
 50명의 유튜버의 먹방 제목 불용어 제거, 동의어 처리    
@@ -26,7 +28,8 @@ __2단계__: 데이터 전처리
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/57060127/85222664-ff50c980-b3f7-11ea-8009-f54fac3f79eb.JPG" width=70%>
 </p>
-</p>
+<br>
+
 
 __3단계__: 데이터 정리  
 각 유튜버 먹방 제목의 빈도수 추출한 txt를 합쳐서 FrequencyRdd 생성    
