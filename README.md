@@ -4,7 +4,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------
-## 개발 내용
+## 개발 환경  
 * BeautifulSoup, selenium, chromeWebDriver, Jupyter Notebook 사용
 
 * hadoop, spark, python3 사용
