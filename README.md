@@ -26,10 +26,10 @@ __1단계: 데이터 수집__ -구독자 20만이상 유튜버 50명의 먹방�
 
 __2단계: 데이터 전처리__ - 50명의 유튜버의 먹방 제목 불용어 제거, 동의어 처리    
 <p align="center">   
-<img src="https://user-images.githubusercontent.com/57060127/85222662-fd870600-b3f7-11ea-91e6-06901055d920.JPG" width=70%>
+<img src="https://user-images.githubusercontent.com/57060127/95224218-62465f00-0835-11eb-9033-46cd89f33766.JPG" width=70%>
 </p>
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/57060127/85222664-ff50c980-b3f7-11ea-8009-f54fac3f79eb.JPG" width=70%>
+<img src="https://user-images.githubusercontent.com/57060127/95224226-64102280-0835-11eb-83b2-2f22a341e334.JPG" width=70%>
 </p>
 <br>
 
